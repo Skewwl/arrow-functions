@@ -225,3 +225,4 @@ joe.scopeArrow();
 // 3. Explain why "this" is different when an arrow function is used.
 
 // Arrow functions do not create their own this hence derive their 'this value' from the enclosing scope.
+
